@@ -1,0 +1,13 @@
+/* Given an array/list of length N, you need to find and return the sum of all elements of the array/list. */
+import java.util.*;
+//function of java
+public static int sum(int[] input){	
+      int sum = 0;
+        for(int i=0;i<input.length;i++)
+        {
+            sum = sum+input[i];
+        }
+        return sum;
+    }
+	
+}
