@@ -1,6 +1,6 @@
 /* Given two random integer arrays, print their intersection. That is, print all the elements that are present in both the given arrays.
 Input arrays can contain duplicate elements. */
-// function to implement the given question
+// function to implement given question
 
 import java.util.*;
 public class Intersection{
